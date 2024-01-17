@@ -38,4 +38,12 @@ cd tic-tac-toe-game
 
 Open `index.html` in your preferred web browser.
 
+## Screenshots
+
+![Game in Progress](images/img_01.jpeg)
+![Game in Progress](images/img_02.jpeg)
+![Game in Progress](images/img_03.jpeg)
+![Game in Progress](images/img_04.jpeg)
+![Game in Progress](images/img_05.jpeg)
+![Game in Progress](images/img_06.jpeg)
 

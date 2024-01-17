@@ -40,10 +40,21 @@ Open `index.html` in your preferred web browser.
 
 ## Screenshots
 
+- Login Page
 ![Game in Progress](images/img_01.jpeg)
+
+- Login Page with Random Credentials
 ![Game in Progress](images/img_02.jpeg)
+
+- Login Page with Toast Messages
 ![Game in Progress](images/img_03.jpeg)
+
+- Game Page
 ![Game in Progress](images/img_04.jpeg)
+
+- Game Page Functionality 
 ![Game in Progress](images/img_05.jpeg)
-![Game in Progress](images/img_06.jpeg)
+
+- Game Page Win/Lose
+![Game in Progress](images/img_06.png)
 

@@ -32,7 +32,7 @@ Welcome to the Tic Tac Toe game! This simple web-based game allows two players t
 Clone the repository:
 
 ```bash
-git clone https://github.com/harsh-pandhe/tic-tac-toe-game.git
+git clone https://github.com/harsh-pandhe/Tic-Tac-Toe.git
 cd tic-tac-toe-game
 ```
 
@@ -54,6 +54,10 @@ Open `index.html` in your preferred web browser.
 
 - Game Page Functionality 
 ![Game in Progress](images/img_05.jpeg)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE.md).
 
 - Game Page Win/Lose
 ![Game in Progress](images/img_06.png)

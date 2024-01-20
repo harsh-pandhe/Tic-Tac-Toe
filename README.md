@@ -55,10 +55,9 @@ Open `index.html` in your preferred web browser.
 - Game Page Functionality 
 ![Game in Progress](images/img_05.jpeg)
 
-## License
-
-This project is licensed under the [MIT License](LICENSE.md).
-
 - Game Page Win/Lose
 ![Game in Progress](images/img_06.png)
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
